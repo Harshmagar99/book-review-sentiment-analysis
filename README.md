@@ -8,5 +8,17 @@ The model used  for prediction is Logistic Regression model.
 The dataset used to train the model is g_reviews.csv downloaded from Kaggel.
 dataset link = https://www.kaggle.com/datasets/ziya07/sentiment-tagged-book-review-dataset?resource=download
 
+# Technologies Used
+- Python
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+- Streamlit
+
+
 #  App link 
 https://book-review-sentiment-analysis-jwrkyfoiobaxaoevhwynsf.streamlit.app/
+
+
+
+
